@@ -4,9 +4,9 @@
 
 ## Usage
 
-Website for 2021 Spring: [CS-221N](http://cs231n.stanford.edu/index.html)
+Website for 2021 Spring: [CS-231N Notes](http://cs231n.stanford.edu/index.html)
 
-Playlist of 2017 Spring: [Youtube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+Playlist of 2017 Spring: [Lecture](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
