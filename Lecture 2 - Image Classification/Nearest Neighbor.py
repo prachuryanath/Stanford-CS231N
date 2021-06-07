@@ -53,7 +53,7 @@ for k in [1, 3, 5, 10, 20, 50, 100]:
   # here we assume a modified NearestNeighbor class that can take a k as input
   Yval_predict = nn.predict(Xval_rows, k = k)
   acc = np.mean(Yval_predict == Yval)
-  print 'accuracy: %f' % (acc,)
+  print('accuracy: %f' % (acc,))
 
   # keep track of what works on the validation set
   validation_accuracies.append((k, acc))
